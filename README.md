@@ -39,7 +39,7 @@ git clone https://github.com/zeca19/Reach-Projekat.git
 #### Install the dependencies
 
 ```
-npm install install
+npm install 
 
 # From the project root path
 

@@ -153,8 +153,8 @@ function App() {
       console.log(aliceGuess, bobGuess, charlieGuess);
     },
     throwHand: () => {
-      console.log(`The ${name} made a ${hand}`);
-      toaster.success(`The ${name} made a ${hand}`);
+      console.log(`The ${name} picked this much marbles:  ${hand}`);
+      toaster.success(`The ${name} picked this much marbles: ${hand}`);
       return hand;
     },
     getResult: (outcome, aliceHand, bobHand, charlieHand) => {

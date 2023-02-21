@@ -20,7 +20,7 @@ const JoinGame = ({ handleSubmit, getHand, accountBal }) => {
             <Box mt="80px" w="35%" m="20px auto">
                 <Box mt="50px" >
                     <Text color="brand.white" fontSize="20px" fontWeight="400">Choose how many marbles</Text>
-                    <Select placeholder='Play a finger' h="50px" bg="brand.white" w="60%" m="20px auto" onChange={(e) => getHand(e.target.value)}>
+                    <Select placeholder='Marbles' h="50px" bg="brand.white" w="60%" m="20px auto" onChange={(e) => getHand(e.target.value)}>
                         <option value="1">
                             <Text> One Marble</Text>
                         </option>

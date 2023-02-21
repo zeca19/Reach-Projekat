@@ -55,7 +55,7 @@ const WinnerEmerges = ({
         <Flex color="brand.dark" justifyContent="space-around" mt="20px">
           <Text>Player</Text>
           <Text>Guess</Text>
-          <Text>Hand</Text>
+          <Text>Number of marbles picked</Text>
         </Flex>
         <Flex color="brand.primary" justifyContent="space-around" mt="20px">
           <Text>Bob</Text>

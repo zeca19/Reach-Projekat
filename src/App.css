@@ -1,9 +1,9 @@
 .App {
   text-align: center;
-  background: url('./images/morra-bg.svg');
+  background: url('./images/bg.svg');
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  height: 170vh;
 }
 
 .App-header {
@@ -16,4 +16,3 @@
 .App-link {
   color: #61dafb;
 }
-

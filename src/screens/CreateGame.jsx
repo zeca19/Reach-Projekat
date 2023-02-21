@@ -19,8 +19,6 @@ const CreateGame = ({
             {logo}
           </Box>
           <Flex cursor="pointer" color="brand.white">
-            <Text>About</Text>
-            <Text ml="40px">Support</Text>
           </Flex>
         </Flex>
         <Flex alignItems="center" color="brand.white">
@@ -56,7 +54,7 @@ const CreateGame = ({
                 Choose how many marbles
               </Text>
               <Select
-                placeholder="Play a finger"
+                placeholder="Marbles"
                 h="50px"
                 bg="brand.white"
                 w="60%"

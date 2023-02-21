@@ -55,7 +55,7 @@ const InputUserType = ({
                 Choose how many marbles
               </Text>
               <Select
-                placeholder="Play a finger"
+                placeholder="Marbles"
                 h="50px"
                 bg="brand.white"
                 w="60%"
